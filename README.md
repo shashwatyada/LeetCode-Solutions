@@ -35,6 +35,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Trie
 |  |
@@ -43,6 +44,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
