@@ -22,6 +22,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,4 +48,8 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
