@@ -34,8 +34,17 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
