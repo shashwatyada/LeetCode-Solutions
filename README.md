@@ -20,6 +20,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,12 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
