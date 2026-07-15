@@ -14,3 +14,19 @@ A collection of my successfully accepted LeetCode solutions, updated automatical
 The problems are automatically categorized by the extension into dedicated folders containing:
 1. The solution code file.
 2. A detailed README.md within the folder explaining the problem statement, constraints, and complexity analysis.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+<!---LeetCode Topics End-->
