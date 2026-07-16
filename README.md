@@ -61,5 +61,14 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
