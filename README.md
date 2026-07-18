@@ -60,6 +60,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -68,6 +69,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
