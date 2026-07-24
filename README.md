@@ -30,6 +30,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
