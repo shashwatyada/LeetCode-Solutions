@@ -21,7 +21,6 @@ class Solution(object):
             if not node.left and not node.right:
                 return current_sum
 
-            # Sum up results from both subtree
             return dfs(node.left, current_sum) + dfs(node.right, current_sum)
         
         return dfs(root, 0)
