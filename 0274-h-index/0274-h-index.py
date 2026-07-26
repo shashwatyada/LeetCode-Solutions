@@ -6,12 +6,10 @@ class Solution(object):
         """
         # Sort citations in decending order
         citations.sort(reverse = True)
-
         h = 0
 
         #Iterate over papers ordered from highest citations to lowest
         for i, cite in enumerate(citations):
-            # Check if there are at least (i + 1) papers at least (i + 1) citations
             if cite >= i + 1:
                 h = i + 1
 
