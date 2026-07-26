@@ -35,6 +35,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0135-candy](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +184,9 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
