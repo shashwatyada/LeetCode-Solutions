@@ -155,6 +155,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0112-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -165,6 +166,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0112-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -186,6 +188,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0112-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
