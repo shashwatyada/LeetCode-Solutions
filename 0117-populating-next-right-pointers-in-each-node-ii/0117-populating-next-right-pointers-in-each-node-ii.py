@@ -20,7 +20,6 @@ class Solution(object):
             dummy = Node(0)
             tail = dummy
             
-            # Traverse the current level using next pointers
             while curr:
                 if curr.left:
                     tail.next = curr.left
