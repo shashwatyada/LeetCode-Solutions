@@ -11,11 +11,9 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        # If node is empty, no path exist 
         if not root:
             return False
 
-        # Check if we are at a leaf node
         if not root.left and not root.right:
             return root.val == targetSum
 
