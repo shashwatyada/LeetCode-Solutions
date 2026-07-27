@@ -133,6 +133,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +146,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
