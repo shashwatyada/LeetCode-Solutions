@@ -33,6 +33,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -119,6 +120,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -133,6 +135,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
