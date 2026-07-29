@@ -60,6 +60,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
