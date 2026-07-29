@@ -67,6 +67,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0058-length-of-last-word](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -107,6 +108,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
