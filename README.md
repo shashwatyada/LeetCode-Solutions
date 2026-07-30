@@ -26,6 +26,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -66,6 +67,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0020-valid-parentheses](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -244,4 +246,8 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
