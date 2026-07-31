@@ -157,6 +157,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
@@ -171,6 +172,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0146-lru-cache](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
@@ -189,6 +191,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -224,6 +227,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -253,4 +257,12 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
