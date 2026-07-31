@@ -36,6 +36,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0134-gas-station](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -114,6 +115,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Linked List
@@ -263,6 +265,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
