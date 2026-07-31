@@ -193,6 +193,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0129-sum-root-to-leaf-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
