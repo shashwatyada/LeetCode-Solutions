@@ -50,6 +50,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +115,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
