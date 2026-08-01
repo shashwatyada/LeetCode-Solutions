@@ -9,7 +9,6 @@ class Solution(object):
         max_water = 0
 
         while left < right:
-            # Calculate current area
             h = min(height[left], height[right])
             w = right - left
             max_water = max(max_water, h * w)
