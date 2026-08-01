@@ -13,7 +13,6 @@ class Solution(object):
             w = right - left
             max_water = max(max_water, h * w)
 
-            # Move the pointer pointing to the sorter line
             if height[left] < height[right]:
                 left += 1
             else:
