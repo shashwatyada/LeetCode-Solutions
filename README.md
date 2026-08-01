@@ -22,6 +22,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -105,6 +106,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0027-remove-element) |
@@ -246,6 +248,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
