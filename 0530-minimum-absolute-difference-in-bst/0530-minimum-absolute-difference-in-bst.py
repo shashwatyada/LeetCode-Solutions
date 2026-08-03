@@ -19,12 +19,9 @@ class Solution(object):
 
             # Traversal order: Left -> Root -> Right
             inorder(node.left)
-
             if self.prev is not None:
                 self.min_def = min(self.min_def, node.val - self.prev.val)
             self.prev = node
-
             inorder(node.right)
-
         inorder(root)
         return self.min_def
