@@ -204,6 +204,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0199-binary-tree-right-side-view](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -219,6 +220,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0199-binary-tree-right-side-view](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -232,6 +234,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -252,6 +255,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0199-binary-tree-right-side-view](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -287,6 +291,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Iterator
 |  |
 | ------- |
