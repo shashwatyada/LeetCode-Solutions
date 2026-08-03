@@ -16,12 +16,10 @@ class Solution(object):
                 # Skip empty cell
                 if val == '.':
                     continue
-
                 box_key = (r // 3, c // 3)
                 # Check if value already seen in row, collumn or 3x3 box
                 if val in rows[r] or val in cols[c] or val in boxes[box_key]:
                     return False
-
                 # Register value in sets
                 rows[r].add(val)
                 cols[c].add(val)
