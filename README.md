@@ -43,6 +43,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -284,6 +285,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Simulation
 |  |
@@ -295,6 +297,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Iterator
 |  |
@@ -305,4 +308,8 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
