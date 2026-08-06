@@ -83,6 +83,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
@@ -102,6 +103,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0146-lru-cache](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
