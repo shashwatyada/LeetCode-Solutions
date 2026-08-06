@@ -28,6 +28,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0036-valid-sudoku](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
@@ -76,6 +77,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0014-longest-common-prefix](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
@@ -97,6 +99,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -278,6 +281,7 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0242-valid-anagram) |
