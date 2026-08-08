@@ -202,6 +202,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -224,6 +225,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -255,6 +257,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -310,6 +313,7 @@ The problems are automatically categorized by the extension into dedicated folde
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
