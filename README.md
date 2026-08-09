@@ -108,6 +108,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -138,6 +139,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
@@ -162,6 +164,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0012-integer-to-roman](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
@@ -335,4 +338,8 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
