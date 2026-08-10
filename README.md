@@ -39,6 +39,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -105,6 +106,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -345,4 +347,8 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
