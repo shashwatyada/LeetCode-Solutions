@@ -88,6 +88,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0058-length-of-last-word](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -109,6 +110,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -350,6 +352,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Floyd's Cycle Finding Algorithm
