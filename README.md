@@ -66,6 +66,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0042-trapping-rain-water](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -183,6 +184,7 @@ The problems are automatically categorized by the extension into dedicated folde
 | [0002-add-two-numbers](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -389,4 +391,8 @@ The problems are automatically categorized by the extension into dedicated folde
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shashwatyada/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
